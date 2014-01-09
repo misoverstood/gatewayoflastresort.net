@@ -1,2 +1,2 @@
-gatewayoflastresort-net.github.com
+gatewayoflastresort.net
 ==================
